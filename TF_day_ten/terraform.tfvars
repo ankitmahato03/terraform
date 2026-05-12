@@ -1,1 +1,1 @@
-client_secret= "00bf8343-a89e-4cdd-88fd-64f22cf7e1de"
+client_secret= "gggg"
