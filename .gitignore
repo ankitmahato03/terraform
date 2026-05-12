@@ -5,7 +5,7 @@
 .terraform.lock.hcl
 
 # Environment files
-.env
+.tfvars
 
 # Crash logs
 crash.log

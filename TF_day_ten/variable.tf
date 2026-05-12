@@ -1,3 +1,11 @@
+
+#login 
+variable "client_secret" {
+  type = string
+}
+
+
+
 variable "allowed_locations" {
   type        = list(string)
   description = "List of allowed Locations"
